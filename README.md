@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on projects (such as gaming or applications).
 - 📫 How to reach me here or through discord (release later).
+- (I am bad at coding. I make speghetti code)
 
 <!---
 JeffreyCheung0429/JeffreyCheung0429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
